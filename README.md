@@ -28,11 +28,10 @@ Having the above materials at your disposal and following the circuit diagram ca
 
 ## Usage
 
-To use the LED cube, simply power on the Arduino board and watch as the cube comes to life with colorful patterns and displays.
-
-## Contributing
-
-If you'd like to contribute to this project, please fork this repository and submit a pull request with your changes. Please make sure to follow the established code style and conventions.
+To use the LED cube, simply power on the Arduino board and watch as the cube comes to life with colorful patterns and displays. <br>
+![red](images/red.jpg)
+![green](images/green.jpg)
+![blue](images/blue.jpg)
 
 ## Credits
 
