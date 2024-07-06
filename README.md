@@ -10,10 +10,11 @@ This project is a 4x4x4 RGB LED cube powered by an Arduino. It uses 64 RGB LEDs 
 - 48 330ohm resistor
 - 4 1Kohm resistor
 - 1 10Kohm resistor
-- Circuit board
 - Copper wire
 - Power supply (5V, 2A or higher)
 - Ribbon cables
+- Circuit board
+- Solder wire
 
 ## Instructions
 
@@ -26,12 +27,17 @@ Having the above materials at your disposal and following the circuit diagram ca
 3. Upload the sketch to the Arduino board.
 4. Experiment with different colors and patterns by modifying the code as desired.
 
+## Circuit Diagram
+
+![circuit_diagram](images/circuit_diagram.jpg)
+
 ## Usage
 
 To use the LED cube, simply power on the Arduino board and watch as the cube comes to life with colorful patterns and displays. <br>
 ![red](images/red.jpg)
 ![green](images/green.jpg)
 ![blue](images/blue.jpg)
+![random](images/random_colors.png)
 
 ## Credits
 
